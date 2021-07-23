@@ -13,8 +13,6 @@ SCREENSHOTS!!
 
 ![Dolphin_Bms1RWexpg](https://user-images.githubusercontent.com/86789827/126803568-28f6da99-21e8-4d89-9850-ad850b3dc540.png)
 
-![Dolphin_h2aDjFhAPt](https://user-images.githubusercontent.com/86789827/126804053-4a1ec8d0-e034-4ed6-8a53-fd1d75209674.png)
-
 ![Dolphin_iVIPPRXxjl](https://user-images.githubusercontent.com/86789827/126804558-709db30e-ceec-4195-95d9-69782060f741.png)
 
 
