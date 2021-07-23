@@ -5,3 +5,4 @@ A port of the infamous "M is Bad!" flash sprite cartoon by Hexis. Ported to Wii 
 Then we find out that an evil clone of Mario set this entire situation up by disguising as Mario during the party.\
 
 Use Wii Mod Lite to install this channel. Channel size is 69 blocks.
+Download Wii Mod Lite here: https://github.com/RiiConnect24/Wii-Mod-Lite/releases
